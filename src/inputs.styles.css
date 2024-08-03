@@ -1,0 +1,17 @@
+.inputs-top {
+  display: flex;
+  color: #3535f0;
+}
+.player {
+  display: flex;
+}
+.score-both {
+  display: flex;
+  flex-direction: row;
+}
+
+.score {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
