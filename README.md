@@ -1,5 +1,5 @@
 
-# Spotify eCommerce App
+# Tic Tac Toe Game
 
 This project is a Tic Tac Toe game that allows users to play against each other or a simple AI. Built using React and Redux Toolkit, this app provides an engaging experience for players of all ages to enjoy classic Tic Tac Toe.
 
